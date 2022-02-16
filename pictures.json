@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Bisenia",
+        "img_url": "https://www.prodajaslika.org/proizvodi-galerije/ulja-na-platnu/bisenija-gs.html",
+        "author": "Dragan Ilic Di Vogo",
+        "info": "Dimensions without frame 40x40 The picture is frameless and can be framed with us, which guarantees a gallery discount on framing. Certificate",
+        "genre": "oil on canvas"
+    },
+    {
+        "id": 2,
+        "name": "Beauty and the best ",
+        "img_url": "https://www.prodajaslika.org/proizvodi-galerije/ulja-na-platnu/zvonik-i-zito-gs.html",
+        "author": "Maria Simovic",
+        "info": "Dimensions without frame 40x40 The picture is frameless and can be framed with us, which guarantees a gallery discount on framing. Certificate ",
+        "genre": "oil on canvas"
+    },
+    {
+        "id": 3,
+        "name": "Houses in my village",
+        "img_url": "https://www.prodajaslika.org/proizvodi-galerije/akvareli/kuce-u-mom-selu-gs.html",
+        "author": "Mihael Kuljacic",
+        "info": "Dimensions of the picture without frame 25x35 Dimensions of the picture with frame 43x5The price of the picture is with the frame The frame is light beige-white wooden with glass, and the passe-partout is beigeCertificate",
+        "genre": "watercolor"
+    },
+    {
+        "id": 4,
+        "name": "House in Perast",
+        "img_url": "https://www.prodajaslika.org/proizvodi-galerije/akvareli/kuca-u-perastu-gs.html",
+        "author": "Mihael Kuljacic",
+        "info": "Dimensions of the picture without frame 25x35 Dimensions of the picture with frame 43x5The price of the picture is with the frame The frame is light beige-white wooden with glass, and the passe-partout is beigeCertificate",
+        "genre": "watercolor"
+    },
+    {
+        "id": 5,
+        "name": "Farm",
+        "img_url": "https://www.prodajaslika.org/proizvodi-galerije/naiva/sala%C5%A1-4-gs.html",
+        "author": "Istvan Perez",
+        "info": " Dimensions of the picture without frame 30x40 The picture is frameless and can be framed with us, which guarantees a gallery discount on framing.Certificate",
+        "genre": "naive"
+    },
+    {
+        "id": 6,
+        "name": "Winter idyll",
+        "img_url": "https://www.prodajaslika.org/proizvodi-galerije/naiva/zimska-idila-gs.html",
+        "author": "Desa Petrov Mornar",
+        "info": " Naive (oil on canvas) picture dimensions without frame 30x40 Dimensions of the picture with a frame 35x45 The price of the picture is with the frame The frame is bluish gray, slightly mottled with white passe-partoutCertificate",
+        "genre": "naive"
+    },
+    {
+        "id": 7,
+        "name": "Winther",
+        "img_url": "http://static.thetoptens.com/img/lists/331lg.jpg",
+        "author": "Desa Petrov Mornar",
+        "info": " Naive (oil on canvas) picture dimensions without frame 30x50 Dimensions of the picture with a frame 35x45 The price of the picture is with the frame The frame is bluish gray, slightly mottled with white passe-partoutCertificate",
+        "genre": "naive"
+    },
+    {
+        "id": 8,
+        "name": "Wood for the winter",
+        "img_url": "https://www.prodajaslika.org/proizvodi-galerije/akvareli/drva-za-zimu-gs.html",
+        "author": "Bojan Starcevic",
+        "info": "Dimensions of the picture without frame 26x28 Dimensions of the picture with frame 42x44 The price of the picture is with the frame The frame is golden green with glass, and the passe-partout is beige with green borderCertificate ",
+        "genre": "Watercolor"
+    },
+    {
+        "id": 9,
+        "name": "Samovar",
+        "img_url": "https://www.prodajaslika.org/proizvodi-galerije/ulja-na-platnu/samovar-gs.html",
+        "author": "Damir Savic",
+        "info": "Dimensions of the picture without frame 40x50 Dimensions of the picture with a frame 54x64 The price of the picture is with the frame The frame is wooden brown, and the passe-partout is a beige frame with a gold slipCertificate.",
+        "genre": "oil on canvas"
+    },
+    {
+        "id": 10,
+        "name": "St.Stefan",
+        "img_url": "https://www.prodajaslika.org/proizvodi-galerije/ulja-na-platnu/sveti-stefan-1-gs.html",
+        "author": "Milinko Djurkovic",
+        "info": "Dimensions of the picture without frame 60x50 Dimensions of the picture with a frame 84x74 The price of the picture is with the frame The frame is lux black, and the passe-partout has a gold border slightly mottled Certificate",
+        "genre": " oil on canavas"
+    },
+    {
+        "id": 11,
+        "name": "Hilandar",
+        "img_url": "https://www.prodajaslika.org/proizvodi-galerije/pasteli/hilandar-1-gs.html",
+        "author": "Zvonko Shindic",
+        "info": " Dimensions of the picture without frame 12x17 Dimensions of the picture with frame 26x31 The price of the picture is with the frameThe frame is black wooden with glass, and the passe-partout is white Certificate",
+        "genre": "Pastel - miniature"
+    }
+]
