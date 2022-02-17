@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "name": "author Janos Mesaros",
+        "name": "Love cake",
         "img_url": "file:///C:/Users/Windows%2010%20Pro/Desktop/angularApp/torte/ljubavna-torta.jpg",
         "thumb1": "https://prodajaslika.info/wp-content/uploads/2021/12/Crno-bela-ljubav-Janos-Mesaros-pastel-luksuzno-uramljen-sa-41%C3%9751-cm-bez-25%C3%9735-cm-sertifikat-150-eura.jpg",
         "thumb2": "https://prodajaslika.info/wp-content/uploads/2021/12/Crveno-je-boja-ljubavi-Janos-Mesaros-pastel-luksuzno-uramljen-sa-41%C3%9751-cm-bez-25%C3%9735-cm-sertifikat-150-eura.jpg",
@@ -11,7 +11,7 @@
     },
     {
         "id": 2,
-        "name": "author Milena Pavlovich Barili",
+        "name": "Newlyweds",
         "img_url": "file:///C:/Users/Windows%2010%20Pro/Desktop/angularApp/torte/mladenci.jpg",
         "thumb1": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Milena_Pavlovi%C4%87-Barili_-_Madona%2C_1929.jpg",
         "info": " Milena Pavlović Barili, a painter and poet, was born in Požarevac on 5 November 1909. She started expressing her art talents early on, which was not a surprise as her parents were also artists - her mother Danica Pavlović studied arts, and her father Bruno Barili was a famous Italian poet and composer. She was highly educated, with a variety of interests and talents.  ",
@@ -19,7 +19,7 @@
     },
     {
         "id": 3,
-        "name": "pioppipip lk",
+        "name": "Purple heart",
         "img_url": "file:///C:/Users/Windows%2010%20Pro/Desktop/angularApp/torte/purpurno-srce-torta.jpg",
         "thumb1": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Leonardo_da_Vinci%2C_Salvator_Mundi%2C_c.1500%2C_oil_on_walnut%2C_45.4_%C3%97_65.6_cm.jpg",
         "thumb2": "https://upload.wikimedia.org/wikipedia/commons/7/77/0_The_Vitruvian_Man_-_by_Leonardo_da_Vinci.jpg",
@@ -28,7 +28,7 @@
     },
     {
         "id": 4,
-        "name": "Queen",
+        "name": "Rock'n-roll cake",
         "img_url": "file:///C:/Users/Windows%2010%20Pro/Desktop/angularApp/torte/rock'n-roll-torta.jpg",
         "thumb1": "file:///C:/Users/Windows%2010%20Pro/Desktop/angularApp/torte/rock'n-roll-torta.jpg",
         "thumb2": "https://upload.wikimedia.org/wikipedia/commons/e/e7/QueenPerforming1977.jpg",
@@ -38,7 +38,7 @@
     },
     {
         "id": 5,
-        "name": "Metallica",
+        "name": "Purple hearts",
         "img_url": "file:///C:/Users/Windows%2010%20Pro/Desktop/angularApp/torte/torta1.jpg",
         "thumb1": "http://www.billboard.com/files/styles/article_main_image/public/media/Metallica-1985-group-billboard-650.jpg",
         "thumb2": "https://www.billboard.com/files/styles/768x433/public/media/BB29-FEA-Metallica-6yh-2016-billboard-1500.jpg",
@@ -48,7 +48,7 @@
     },
     {
         "id": 6,
-        "name": "AC/DC",
+        "name": "Blue heart",
         "img_url": "file:///C:/Users/Windows%2010%20Pro/Desktop/angularApp/torte/torta---plavo-srce.jpg",
         "thumb1": "http://i2.cdn.turner.com/cnnnext/dam/assets/140416113111-restricted-06-acdc-horizontal-large-gallery.jpg",
         "thumb2": "http://static.thetoptens.com/img/lists/1712lg.jpg",
@@ -58,7 +58,7 @@
     },
     {
         "id": 7,
-        "name": "The Rolling Stones",
+        "name": "Birds on a branch",
         "img_url": "file:///C:/Users/Windows%2010%20Pro/Desktop/angularApp/torte/torta---pti%C4%8Dice-na-grani.jpg",
         "thumb1": "http://s3.amazonaws.com/rapgenius/rollingstones_2372801b.jpg",
         "thumb2": "http://ppcorn.com/us/wp-content/uploads/sites/14/2015/12/The-Rolling-Stones-pop-art-PPcorn.jpg",
@@ -68,7 +68,7 @@
     },
     {
         "id": 8,
-        "name": "Guns N' Roses",
+        "name": "Cake heart",
         "img_url": "file:///C:/Users/Windows%2010%20Pro/Desktop/angularApp/torte/torta-srce--.jpg",
         "thumb1": "https://consequenceofsound.files.wordpress.com/2016/01/screen-shot-2016-01-05-at-7-19-32-pm.png?w=807",
         "thumb2": "http://www.guitarworld.com/sites/default/files/public/23669_guns_n_roses_2.jpg",
@@ -78,7 +78,7 @@
     },
     {
         "id": 9,
-        "name": "Nirvana",
+        "name": "Owls in love",
         "img_url": "file:///C:/Users/Windows%2010%20Pro/Desktop/angularApp/torte/torta---zaljubljene-sovice.jpg",
         "thumb1": "http://img.wennermedia.com/featured-promo-782/rs-330-nirvana.jpg",
         "thumb2": "http://loudwire.com/files/2014/11/Nirvana.jpg?w=630",
@@ -88,7 +88,7 @@
     },
     {
         "id": 10,
-        "name": "The Who",
+        "name": "Pink cake",
         "img_url": "file:///C:/Users/Windows%2010%20Pro/Desktop/angularApp/torte/torte1.jpg",
         "thumb1": "http://images.amcnetworks.com/bbcamerica.com/wp-content/uploads/2014/04/thewho.jpg",
         "thumb2": "http://static.thetoptens.com/img/lists/1715lg.jpg",
@@ -98,7 +98,7 @@
     },
     {
         "id": 11,
-        "name": "Black Sabbath",
+        "name": " Three golden hearts",
         "img_url": "file:///C:/Users/Windows%2010%20Pro/Desktop/angularApp/torte/trizlatnasrca.jpg",
         "thumb1": "https://3w8dlo2orf8y3crtc22sslbh-wpengine.netdna-ssl.com/wp-content/uploads/2019/06/sabbath-large.jpg",
         "thumb2": "https://m.media-amazon.com/images/M/MV5BZThhMjk5MzAtYTkxNS00OTZlLWJkOTYtYjA1ZTNlZWVmNjI4XkEyXkFqcGdeQXVyMjUyNDk2ODc@._V1_SY1000_SX1000_AL_.jpg",
