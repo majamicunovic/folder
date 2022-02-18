@@ -13,7 +13,9 @@
         "id": 2,
         "name": "Newlyweds",
         "img_url": "file:///C:/Users/Windows%2010%20Pro/Desktop/angularApp/torte/mladenci.jpg",
-        "thumb1": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Milena_Pavlovi%C4%87-Barili_-_Madona%2C_1929.jpg",
+        "thumb1": "file:///C:/Users/Windows%2010%20Pro/Desktop/angularApp/torte/coko6.jpeg",
+        "thumb2": "file:///C:/Users/Windows%2010%20Pro/Desktop/angularApp/torte/choko4.jpeg",
+        "thumb3": "file:///C:/Users/Windows%2010%20Pro/Desktop/angularApp/torte/coko5.jpeg",
         "info": " Preparation: Chocolate cake with cookies is for all those who like a very rich cream. From the title, we can see that it is with chocolate, as well as that the preparation is very simple, so it will surely be liked by everyone with a lack of time. You can make a cake with cookies by adding some of your favorite ingredients because it is absolutely subject to changeThe simplest chocolate cake with biscuits - without cooking and baking",
         "taste": "Chocolate cake"
     },
